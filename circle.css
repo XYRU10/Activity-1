@@ -1,0 +1,29 @@
+.hitler {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+
+img{
+    border-radius: 100%;
+
+
+}
+
+.circleborder{
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.text{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+
+}
